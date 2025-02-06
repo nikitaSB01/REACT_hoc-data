@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://nikitaSb01.github.io/REACT_hoc-data",
+  "homepage": "https://nikitaSB01.github.io/REACT_hoc-data",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
